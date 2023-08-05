@@ -1,9 +1,9 @@
 .base-layout {
+
   .ant-spin-nested-loading >div>.ant-spin {
     max-height: 100vh
-  }
-
-  &__content {
-    display: flex;
-  }
+  }  
+}
+.base-layout__content{
+  display: flex;
 }

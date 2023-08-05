@@ -54,7 +54,6 @@ export const RoutingMachine: React.FC = () => {
         extendToWaypoints: false,
         missingRouteTolerance: 0,
       },
-      draggableWaypoints: false,
       routeWhileDragging: false,
       useZoomParameter: true,
       fitSelectedRoutes: true,
